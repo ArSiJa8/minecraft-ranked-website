@@ -11,7 +11,7 @@ useHead({
   }
 })
 
-const title = 'PVP Ranked'
+const title = 'MCPvP Ranked'
 const description = 'Track your Elo across all kits with in-game leaderboards, secure match history, and real-time rankings on McPVP.club.'
 
 useSeoMeta({
@@ -32,7 +32,7 @@ useSeoMeta({
     <UMain>
       <template>
         <UBanner title="This Website is in very early Development!" />
-      </template>  
+      </template>
       <NuxtPage />
       <UModals />
     </UMain>

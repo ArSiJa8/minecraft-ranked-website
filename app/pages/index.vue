@@ -7,7 +7,7 @@ const ModrinthIsOpen = ref(false)
   <div>
     <UPageHero
       class="min-h-screen flex items-center"
-      title="PVP Ranked"
+      title="MCPVP Ranked"
       description="Track your Elo across all kits with in-game leaderboards, secure match history, and real-time rankings on McPVP.club."
       :links="[{
         label: 'Download Mod',
