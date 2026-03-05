@@ -22,7 +22,6 @@ export default defineNuxtConfig({
     'nuxt-charts',
     '@nuxtjs/seo',
     '@nuxt/fonts',
-    '@nuxt/content',
     '@nuxtjs/color-mode',
     '@nuxtjs/ngrok',
     '@nuxt/hints',
