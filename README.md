@@ -32,6 +32,6 @@ https://minecraft-ranked-website-development.up.railway.app/
 
 ## Tech Stack
 
-**Client:** Vue, Nuxt, TailwindCSS
+**Client:** Vue, Nuxt, TailwindCSS      
 **Server:** Not done yet
 
