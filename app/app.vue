@@ -30,6 +30,9 @@ useSeoMeta({
 
 
     <UMain>
+      <template>
+        <UBanner title="This Website is in very early Development!" />
+      </template>  
       <NuxtPage />
       <UModals />
     </UMain>
