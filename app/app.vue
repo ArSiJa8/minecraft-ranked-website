@@ -12,7 +12,7 @@ useHead({
 })
 
 const title = 'PVP Ranked'
-const description = '"Track your Elo across all kits with in-game leaderboards, secure match history, and real-time rankings on McPVP.club.'
+const description = 'Track your Elo across all kits with in-game leaderboards, secure match history, and real-time rankings on McPVP.club.'
 
 useSeoMeta({
   title,
